@@ -1,1 +1,4 @@
 *.clj~
+.gorilla-port
+.nrepl-port
+pom.properties
